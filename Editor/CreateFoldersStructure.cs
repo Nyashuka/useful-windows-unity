@@ -13,7 +13,7 @@ public class CreateFoldersStructure : EditorWindow
     {
         CreateFoldersStructure window = ScriptableObject.CreateInstance<CreateFoldersStructure>();
         window.position = new Rect(Screen.width / 2, Screen.height / 2, 400, 150);
-        window.ShowPopup();
+        window.Show();
     }
 
     private static void CreateAllFolders()
