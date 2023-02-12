@@ -1,0 +1,8 @@
+{
+  "name": "com.nyashuka.usefulwindows",
+  "version": "0.0.1",
+  "displayName": "Useful Windows",
+  "description": "This is an example package",
+  "unity": "2020.3",
+  "type": "module"
+}
