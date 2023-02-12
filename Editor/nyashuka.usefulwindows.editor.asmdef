@@ -1,13 +1,11 @@
 {
     "name": "nyashuka.usefulwindows.editor",
     "rootNamespace": "UsefulWindows.CreateDefaultFolders",
-    "references": [
-        "GUID:9834128c16307b74bb60a31e53cc85c6"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "references": [],
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
